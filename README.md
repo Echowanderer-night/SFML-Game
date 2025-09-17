@@ -1,17 +1,22 @@
 #SFML Kirby-like 2D Platformer
 一个以 Kirby 为灵感的 2D 平台游戏 ，使用 C++ 和 SFML 3.0.0 构建，包含多个关卡、角色控制和互动游戏元素。该项目展示了我对游戏开发基础知识的理解，包括基于瓦片的地图、角色动画、碰撞检测和音频集成。
+![menu](images/menu.png)
 
 #项目概述
 本项目是一个关卡式 2D 平台游戏 ，玩家控制一个类似 Kirby 的角色，在多种环境中探索、击败敌人并与游戏世界互动。
 ##主要功能：
 平滑的角色移动，带有重力和跳跃机制
+![Kirby jump](images/jump.png)
 使用 Tiled Map Editor 创建的瓦片地图
+![Level 1 Screenshot](images/level1.png)
+![Level 2 Screenshot](images/level2.png)
 具有地面、水、障碍物等自定义属性的地图瓦片
 带动画、移动和生命值的敌人 AI
 带有子弹/弹丸的角色攻击系统
 游戏内显示生命值和伤害系统
 背景音乐和音效
 支持多个关卡和无限模式
+![Level Screenshot](images/level.png)
 
 #项目结构
 SFML-Game/
