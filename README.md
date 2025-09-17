@@ -30,6 +30,8 @@ SFML-Game/
 1. 克隆仓库
 2. 下载资源
 获取 resources.zip 文件（包含 images/ 和 sound/ 文件夹）
+通过网盘分享的文件：source.zip
+链接: https://pan.baidu.com/s/1R12ynbuBrxb1BpPUH9dlwQ?pwd=6666 提取码: 6666
 将其解压到项目根目录，以便文件夹结构匹配：
 SFML-Game/
 ├─ images/
