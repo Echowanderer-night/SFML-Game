@@ -15,7 +15,7 @@
 游戏内显示生命值和伤害系统
 背景音乐和音效
 支持多个关卡和无限模式
-![Level Screenshot](images/leve.png)
+![Level Screenshot](images/level.png)
 
 #项目结构
 SFML-Game/
