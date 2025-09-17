@@ -8,15 +8,14 @@
 平滑的角色移动，带有重力和跳跃机制
 ![Kirby jump](images/jump.png)
 使用 Tiled Map Editor 创建的瓦片地图
-![Level 1 Screenshot](images/level1.png)
-![Level 2 Screenshot](images/level2.png)
+![Level 2 Screenshot](images/level3.png)
 具有地面、水、障碍物等自定义属性的地图瓦片
 带动画、移动和生命值的敌人 AI
 带有子弹/弹丸的角色攻击系统
 游戏内显示生命值和伤害系统
 背景音乐和音效
 支持多个关卡和无限模式
-![Level Screenshot](images/level.png)
+![Level Screenshot](images/leve.png)
 
 #项目结构
 SFML-Game/
@@ -52,6 +51,7 @@ SFML-Game/
 玩家控制的 Kirby 类角色
 支持移动、跳跃和方向性攻击
 带视觉显示的健康系统
+![win Screenshot](images/win.png)
 攻击弹丸的弹丸管理器
 ##敌对系统
 使用精灵数组动画化的敌人
