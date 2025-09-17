@@ -1,0 +1,23 @@
+# Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build folders
+Debug/
+Release/
+x64/
+x86/
+.vs
+
+# SFML 文件夹和大文件
+SFML-3.0.0/
+*.dll
+*.exe
+Noto_Sans_SC/
+sound/
+image/
+*.TTF
+*.ttf
+detail/
